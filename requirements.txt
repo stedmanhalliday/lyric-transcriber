@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+demucs
+mlx-whisper
